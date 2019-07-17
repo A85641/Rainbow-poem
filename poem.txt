@@ -2,6 +2,8 @@ The rainbow
 Purple  
 Pink  
 Orange  
+Green
+Yellow
 Blue 
 Red
 Tese are the colours of rainbow
