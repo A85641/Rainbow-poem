@@ -1,0 +1,7 @@
+<project>
+
+    <target name="clean">
+    <echo> Hye, this is my first ant project</echo>
+    </target>
+
+</project>
